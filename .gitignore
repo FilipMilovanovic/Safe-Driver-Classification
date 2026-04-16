@@ -1,0 +1,7 @@
+data/
+.ipynb_checkpoints/
+.virtual_documents/
+.venv/
+venv/
+env/
+__pycache__/
